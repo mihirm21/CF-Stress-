@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/hibiken/asynq v0.23.0
-	github.com/labstack/echo/v4 v4.7.2
+	github.com/labstack/echo/v4 v4.9.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.5.0
 	go.mongodb.org/mongo-driver v1.10.0
 	go.uber.org/zap v1.24.0
